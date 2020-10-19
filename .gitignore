@@ -3,14 +3,20 @@ _site
 .sass-cache
 .vagrant
 <<<<<<< HEAD
+<<<<<<< HEAD
 _mj_ebay
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> f11e408483b696119d803ad8c6b1f8ec5efa0e1a
 _mj
 =======
 _mj_ebay
 >>>>>>> e3600dc2192a40c5f37a5ab297df323e6ae75412
+<<<<<<< HEAD
 >>>>>>> test 1st
+=======
+>>>>>>> f11e408483b696119d803ad8c6b1f8ec5efa0e1a
 # general
 .DS_Store
 Thumbs.db
