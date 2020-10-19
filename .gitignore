@@ -1,0 +1,17 @@
+# project
+_site
+.sass-cache
+.vagrant
+<<<<<<< HEAD
+_mj
+=======
+_mj_ebay
+>>>>>>> e3600dc2192a40c5f37a5ab297df323e6ae75412
+# general
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+Gemfile.lock
+
+beautiful-jekyll-theme-*.gem
